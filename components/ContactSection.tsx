@@ -40,7 +40,7 @@ export default function ContactSection() {
                 className="text-xs font-bold uppercase tracking-[0.18em] mb-3"
                 style={{ color: "var(--color-accent)" }}
               >
-                Free Estimates · Fast Response
+                Free Consultations · Fast Response
               </p>
               <h2
                 className="text-4xl lg:text-5xl font-bold mb-4"
@@ -57,7 +57,7 @@ export default function ContactSection() {
                 We respond the same day.
               </h2>
               <p className="text-lg" style={{ color: "var(--color-text-muted)" }}>
-                Most requests get a callback within 2–4 hours, Mon–Sat.
+                Most requests get a callback within 24 hrs, Mon–Sat.
                 For same-day service, call us directly at{" "}
                 <a
                   href="tel:4258948444"

@@ -75,7 +75,7 @@ export default function ContactForm() {
           You&apos;re all set!
         </h3>
         <p className="text-sm max-w-xs" style={{ color: "var(--color-text-muted)" }}>
-          We&apos;ll call you back within 2–4 hours, Mon–Sat. For same-day
+          We&apos;ll call you back within 24 hrs, Mon–Sat. For same-day
           service, call us directly at{" "}
           <a
             href="tel:4258948444"
@@ -279,7 +279,7 @@ export default function ContactForm() {
           </>
         ) : (
           <>
-            Request My Free Estimate
+            Request My Free Consultation
             <ArrowRight className="w-4 h-4" />
           </>
         )}

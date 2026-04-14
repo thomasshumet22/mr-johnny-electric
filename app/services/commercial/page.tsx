@@ -92,7 +92,7 @@ export default function CommercialPage() {
 
           <div className="mt-14 pt-10 border-t border-black/[.06] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
             <p className="text-base font-medium" style={{ color: "var(--color-text-muted)" }}>
-              Free site walkthroughs · Licensed & insured · WA Lic #MRJONE*922RM
+              Free site walkthroughs · Licensed & insured · WA Lic #ELECTIM772PP
             </p>
             <Link
               href="/contact"

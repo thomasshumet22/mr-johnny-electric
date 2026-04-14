@@ -99,7 +99,7 @@ export default function InstallationsPage() {
               className="inline-flex items-center gap-2 px-6 py-3 rounded-md font-bold text-sm transition-all hover:brightness-110"
               style={{ backgroundColor: "var(--color-accent)", color: "var(--color-primary)" }}
             >
-              Get My Free Estimate
+              Get My Free Consultation
             </Link>
           </div>
         </div>

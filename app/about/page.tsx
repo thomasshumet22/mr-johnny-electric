@@ -21,7 +21,7 @@ const VALUES = [
   {
     title: "Licensed & Insured",
     description:
-      "Fully licensed WA State electrical contractors. Every job is permitted, inspected, and done to code — not cut to a handyman's standard.",
+      "Fully licensed WA State electrical contractors. Every job is done to code — not cut to a handyman's standard.",
   },
   {
     title: "Locally Owned",
@@ -107,7 +107,7 @@ export default function AboutPage() {
               className="inline-flex items-center gap-2 px-6 py-3 rounded-md font-bold text-sm transition-all hover:brightness-110"
               style={{ backgroundColor: "var(--color-accent)", color: "var(--color-primary)" }}
             >
-              Get My Free Estimate
+              Get My Free Consultation
             </Link>
           </div>
         </div>

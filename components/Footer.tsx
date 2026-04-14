@@ -25,14 +25,14 @@ export default function Footer() {
               </span>
               <p className="mt-2 text-sm text-white/60 leading-relaxed">
                 Licensed, bonded, and insured electricians serving the Greater
-                Seattle area. 4.9 stars on Google · Free estimates available.
+                Seattle area. 4.9 stars on Google · Free consultations available.
               </p>
             </div>
 
             {/* License + credentials */}
             <div className="text-sm text-white/70 space-y-1">
               <p className="font-semibold text-white">Licensed · Bonded · Insured</p>
-              <p>WA Electrical Contractor License #MRJONE*922RM</p>
+              <p>WA Electrical Contractor License #ELECTIM772PP</p>
             </div>
 
             {/* Social placeholder */}

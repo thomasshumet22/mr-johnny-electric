@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Get a Free Quote | Mr. Johnny Electric — Seattle, WA",
     description:
-      "Contact our licensed Seattle electricians for a free estimate. We respond within a few hours. Call (425) 894-8444.",
+      "Contact our licensed Seattle electricians for a free consultation. We respond within 24 hrs. Call (425) 894-8444.",
     url: `${SITE_URL}/contact`,
     type: "website",
   },
@@ -24,7 +24,7 @@ export default function ContactPage() {
         eyebrow="Get in Touch"
         title="Request a Free"
         highlight="Quote."
-        description="We respond within 2–4 hours, Mon–Sat — no commitment required. Need same-day service? Call (425) 894-8444 now."
+        description="We respond within 24 hrs, Mon–Sat — no commitment required. Need same-day service? Call (425) 894-8444 now."
       />
       <ContactSection />
     </>

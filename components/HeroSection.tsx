@@ -73,8 +73,7 @@ export default function HeroSection() {
             className="text-lg sm:text-xl leading-relaxed mb-10 max-w-2xl"
             style={{ color: "rgba(255,255,255,0.72)" }}
           >
-            Upfront pricing. Same-day response. Every job is permitted,
-            inspected, and done right by a licensed WA State electrical contractor.
+            Upfront pricing. Same-day response. Licensed WA State electrical contractor.
           </p>
 
           {/* CTAs */}
@@ -97,14 +96,14 @@ export default function HeroSection() {
               href="/contact"
               className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-md font-semibold text-base sm:text-lg border-2 border-white/30 text-white transition-all duration-200 hover:border-white/60 hover:bg-white/10 active:scale-[0.98]"
             >
-              Get a Free Estimate
+              Get a Free Consultation
               <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
 
           {/* Trust micro-line */}
           <p className="mt-8 text-sm font-medium" style={{ color: "rgba(255,255,255,0.42)" }}>
-            Licensed · Bonded · Insured · Free Estimates · WA Lic #MRJONE*922RM
+            Licensed · Bonded · Insured · Free Consultations · WA Lic #ELECTIM772PP
           </p>
         </div>
       </div>
