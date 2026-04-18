@@ -22,7 +22,7 @@ const contactDetails = [
   {
     icon: <ClockIcon />,
     label: "Hours",
-    value: "Mon–Sat, 7am–6pm",
+    value: "Mon–Fri, 7am–6pm",
     href: null,
   },
 ];
@@ -57,7 +57,7 @@ export default function ContactSection() {
                 We respond the same day.
               </h2>
               <p className="text-lg" style={{ color: "var(--color-text-muted)" }}>
-                Most requests get a callback within 24 hrs, Mon–Sat.
+                Most requests get a callback within 2–4 hours, Mon–Fri.
                 For same-day service, call us directly at{" "}
                 <a
                   href="tel:4258948444"

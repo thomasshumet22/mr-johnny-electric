@@ -109,7 +109,7 @@ export default function Footer() {
                 22900 24th Ave S<br />
                 Des Moines, WA 98198
               </li>
-              <li>Mon–Sat, 7am–6pm</li>
+              <li>Mon–Fri, 7am–6pm</li>
             </ul>
           </div>
         </div>

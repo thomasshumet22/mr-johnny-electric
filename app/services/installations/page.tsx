@@ -51,7 +51,7 @@ export default function InstallationsPage() {
         eyebrow="Installations"
         title="Electrical Installations,"
         highlight="Clean & Correct."
-        description="Ceiling fans, fixtures, smart switches, sub-panels — installed by a licensed electrician. No handyman shortcuts. Done right the first time."
+        description="Ceiling fans, fixtures, smart switches, sub-panels — installed by a licensed electrician. No handyman shortcuts. Quality work, every time."
       />
 
       <section

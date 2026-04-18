@@ -6,12 +6,12 @@ import { SITE_URL } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "EV Charger Installation — Seattle, WA",
   description:
-    "Level 2 home EV charger installation in Seattle, WA. Works with Tesla, Rivian, Ford, BMW & any EV. Permit-ready, inspected, licensed. Call (425) 894-8444.",
+    "Level 2 home EV charger installation in Seattle, WA. Works with Tesla, Rivian, Ford, BMW & any EV. Professional service by a licensed electrician. Call (425) 894-8444.",
   alternates: { canonical: `${SITE_URL}/services/ev-charger-installation` },
   openGraph: {
     title: "EV Charger Installation in Seattle, WA | Mr. Johnny Electric",
     description:
-      "Permit-ready Level 2 home EV charger installation for any electric vehicle. Licensed Seattle electrician — fast, inspected, done right.",
+      "Level 2 home EV charger installation for any electric vehicle. Professional service by a licensed Seattle electrician.",
     url: `${SITE_URL}/services/ev-charger-installation`,
     type: "website",
   },
@@ -25,8 +25,8 @@ const STEPS = [
   },
   {
     step: "02",
-    title: "Permit & Scheduling",
-    description: "We pull the required electrical permit and schedule the installation at your convenience.",
+    title: "Planning & Scheduling",
+    description: "We plan the job and schedule the installation at your convenience.",
   },
   {
     step: "03",
@@ -35,8 +35,8 @@ const STEPS = [
   },
   {
     step: "04",
-    title: "Inspection & Sign-Off",
-    description: "We coordinate the city inspection so your installation is fully permitted and legal.",
+    title: "Final Walkthrough",
+    description: "We walk through the completed installation with you to make sure everything is working correctly.",
   },
 ];
 
@@ -48,8 +48,8 @@ export default function EvChargerPage() {
       <PageHero
         eyebrow="EV Charger Installation"
         title="Level 2 Home Charging,"
-        highlight="Done Right."
-        description="Permit-ready Level 2 EV charger installation for any electric vehicle. Faster charging, properly wired, inspected, and installed by a licensed electrician."
+        highlight="By a Pro."
+        description="Level 2 EV charger installation for any electric vehicle. Faster charging, properly wired and professionally installed by a licensed electrician."
       />
 
       <section

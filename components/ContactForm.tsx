@@ -75,7 +75,7 @@ export default function ContactForm() {
           You&apos;re all set!
         </h3>
         <p className="text-sm max-w-xs" style={{ color: "var(--color-text-muted)" }}>
-          We&apos;ll call you back within 24 hrs, Mon–Sat. For same-day
+          We&apos;ll call you back within 2–4 hours, Mon–Fri. For same-day
           service, call us directly at{" "}
           <a
             href="tel:4258948444"
@@ -111,7 +111,7 @@ export default function ContactForm() {
           (425) 894-8444
         </a>
         <p className="text-sm" style={{ color: "var(--color-text-muted)" }}>
-          Mon–Sat, 7 am – 7 pm
+          Mon–Fri, 7 am – 7 pm
         </p>
       </div>
     );

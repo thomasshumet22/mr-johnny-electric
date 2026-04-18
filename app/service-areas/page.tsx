@@ -107,7 +107,7 @@ export default function ServiceAreasPage() {
               className="inline-flex items-center gap-2 px-6 py-3 rounded-md font-bold text-sm transition-all hover:brightness-110"
               style={{ backgroundColor: "var(--color-accent)", color: "var(--color-primary)" }}
             >
-              Get a Free Quote
+              Get a Free Consultation
             </Link>
           </div>
         </div>

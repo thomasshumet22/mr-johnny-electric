@@ -26,7 +26,7 @@ export default function TopBar() {
         >
           <PhoneIcon />
           <span>(425) 894-8444</span>
-          <span className="text-white/60 hidden sm:inline">· Mon–Sat 7am–6pm</span>
+          <span className="text-white/60 hidden sm:inline">· Mon–Fri 7am–6pm</span>
         </a>
       </div>
     </div>

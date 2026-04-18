@@ -28,11 +28,11 @@ const SERVICES = [
   },
   {
     title: "Lighting",
-    description: "Recessed can lights, ceiling fan installs, dimmer switches, and exterior lighting.",
+    description: "Recessed lighting, ceiling fan installs, dimmer switches, and exterior lighting.",
   },
   {
     title: "Full Home Rewires",
-    description: "Replace aging or unsafe wiring — aluminum, knob-and-tube, or fire-damaged — with modern copper.",
+    description: "Replace aging or unsafe wiring — aluminum, knob-and-tube, or fire-damaged — with new copper wiring.",
   },
   {
     title: "Smoke & CO Detectors",
@@ -51,7 +51,7 @@ export default function ResidentialPage() {
         eyebrow="Residential"
         title="Home Electrical"
         highlight="Services."
-        description="From single outlets to full panel replacements — licensed, permitted, and done right. Free consultations, same-day response."
+        description="From single outlets to full panel replacements — licensed electrical work you can trust. Free consultations, same-day response."
       />
 
       <section
@@ -92,7 +92,7 @@ export default function ResidentialPage() {
 
           <div className="mt-14 pt-10 border-t border-black/[.06] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
             <p className="text-base font-medium" style={{ color: "var(--color-text-muted)" }}>
-              Free estimates · Same-day response · Licensed & insured
+              Free consultations · Same-day response · Licensed & insured
             </p>
             <Link
               href="/contact"

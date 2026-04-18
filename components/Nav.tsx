@@ -16,7 +16,6 @@ const navLinks = [
   { label: "Home", href: "/" },
   { label: "About", href: "/about" },
   { label: "Services", href: "/services", hasDropdown: true },
-  { label: "Projects", href: "/projects" },
   { label: "Service Areas", href: "/service-areas" },
   { label: "Contact", href: "/contact" },
 ];
@@ -149,7 +148,7 @@ export default function Nav() {
               color: "var(--color-primary)",
             }}
           >
-            Get a Free Quote
+            Free Consultation
           </a>
 
           {/* Mobile hamburger */}
@@ -219,7 +218,7 @@ export default function Nav() {
                   color: "var(--color-primary)",
                 }}
               >
-                Get a Free Quote
+                Free Consultation
               </a>
             </div>
           </nav>

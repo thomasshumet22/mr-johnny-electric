@@ -14,7 +14,7 @@ const services: Service[] = [
     icon: <HomeIcon />,
     title: "Residential",
     description:
-      "Panel upgrades, rewires, outlets, lighting — done clean, on time, and permitted. No callbacks.",
+      "Panel upgrades, rewires, outlets, lighting — done clean and on time. No callbacks.",
     href: "/services/residential",
     cta: "See Residential Services",
   },
@@ -30,9 +30,9 @@ const services: Service[] = [
     icon: <BoltIcon />,
     title: "EV Charger Installation",
     description:
-      "Level 2 home charging for any EV. Permit-ready, inspected, and installed in a single day.",
+      "Level 2 home charging for any EV. Professional installation for all major EV brands.",
     href: "/services/ev-charger-installation",
-    cta: "Get a Free Quote",
+    cta: "Free Consultation",
     featured: true,
   },
   {
